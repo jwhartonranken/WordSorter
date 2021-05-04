@@ -1,0 +1,10 @@
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\bin\Debug\LB4.exe.config
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\bin\Debug\LB4.exe
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\bin\Debug\LB4.pdb
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\obj\Debug\WordSorter.csprojAssemblyReference.cache
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\obj\Debug\LB4.FormPhraseSorter.resources
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\obj\Debug\LB4.Properties.Resources.resources
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\obj\Debug\WordSorter.csproj.GenerateResource.cache
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\obj\Debug\WordSorter.csproj.CoreCompileInputs.cache
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\obj\Debug\LB4.exe
+C:\Users\whart\Desktop\Mobirise\Phrase Word Sorter\Phrase Word Sorter\LB4\obj\Debug\LB4.pdb
